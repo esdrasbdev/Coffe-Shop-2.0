@@ -46,7 +46,7 @@ const products = [
     name: "Expresso Gelado",
     description: "Bebida preparada com café expresso e cubos de gelo",
     price: 9.9,
-    image: "/expresso gelado.pnh=g",
+    image: "/expresso gelado.png",
     tags: ["tradicional", "gelado"],
   },
   {
