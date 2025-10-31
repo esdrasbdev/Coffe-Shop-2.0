@@ -4,7 +4,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 > Versão atualizada do **Coffe Shop**, desenvolvida com **Next.js**, **TypeScript**, **TailwindCSS** e **Firebase**.  
 > Projeto em desenvolvimento, focado em criar uma plataforma moderna para exibição e gerenciamento de cafés.
